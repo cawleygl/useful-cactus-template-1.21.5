@@ -1,0 +1,28 @@
+{
+  "item.useful-cactus.cactus_pad": "Cactus Pad",
+  "item.useful-cactus.cooked_cactus_pad": "Cooked Cactus Pad",
+  "item.useful-cactus.cactus_salad": "Cactus Salad",
+
+  "item.useful-cactus.cholla_sign": "Cholla Sign",
+  "item.useful-cactus.cholla_hanging_sign": "Cholla Hanging Sign",
+  "item.useful-cactus.cholla_raft": "Cholla Raft",
+  "item.useful-cactus.cholla_chest_raft": "Cholla Raft with Chest",
+  "entity.useful-cactus.cholla_chest_raft": "Cholla Raft with Chest",
+
+  "block.useful-cactus.cholla_block": "Block of Cholla",
+  "block.useful-cactus.stripped_cholla_block": "Block of Stripped Cholla",
+  "block.useful-cactus.dried_cholla": "Dried Cholla",
+
+  "block.useful-cactus.cholla_planks": "Cholla Planks",
+  "block.useful-cactus.cholla_mosaic": "Cholla Mosaic",
+  "block.useful-cactus.cholla_stairs": "Cholla Stairs",
+  "block.useful-cactus.cholla_mosaic_stairs": "Cholla Mosaic Stairs",
+  "block.useful-cactus.cholla_slab": "Cholla Slab",
+  "block.useful-cactus.cholla_mosaic_slab": "Cholla Mosaic Slab",
+  "block.useful-cactus.cholla_button": "Cholla Button",
+  "block.useful-cactus.cholla_pressure_plate": "Cholla Pressure Plate",
+  "block.useful-cactus.cholla_fence": "Cholla Fence",
+  "block.useful-cactus.cholla_fence_gate": "Cholla Fence Gate",
+  "block.useful-cactus.cholla_door": "Cholla Door",
+  "block.useful-cactus.cholla_trapdoor": "Cholla Trapdoor"
+}

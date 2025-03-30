@@ -1,0 +1,18 @@
+// 1.21.5	-999999999-01-01T00:00:00	Useful Cactus/Block Loot Tables
+efceec7636c6da7ca428b220d1405b3a7e5889d5 data/useful-cactus/loot_table/blocks/cholla_block.json
+bd0ed38d11952172eec599d1176269bcf73eb14b data/useful-cactus/loot_table/blocks/cholla_button.json
+72e78d4ae85c767157b5aec05ee0ba1090f7e482 data/useful-cactus/loot_table/blocks/cholla_door.json
+aaea41c4935051067be0068624767c04967cdf25 data/useful-cactus/loot_table/blocks/cholla_fence.json
+233f060924c3c3fb98b3182d064c771aa4561342 data/useful-cactus/loot_table/blocks/cholla_fence_gate.json
+bb1b8529c22dd3c5f82e79d4b9224e333cdc9a87 data/useful-cactus/loot_table/blocks/cholla_hanging_sign.json
+58ef70294cbd2277b4cdfe4002b1244d9c4c37d1 data/useful-cactus/loot_table/blocks/cholla_mosaic.json
+d5e2c08df9ee526bda41c86455546df50b43393a data/useful-cactus/loot_table/blocks/cholla_mosaic_slab.json
+21ac8821ae907a0ddfa0731bcd5be4e640370d1e data/useful-cactus/loot_table/blocks/cholla_mosaic_stairs.json
+b779ab26e2bbd62aac3c4945e90e9669af0cf9f7 data/useful-cactus/loot_table/blocks/cholla_planks.json
+ecba3f7e2a59f674d0205c0849a44fa4d30a12ff data/useful-cactus/loot_table/blocks/cholla_pressure_plate.json
+11f7696565dfab0ad11a43971b78e1097702bc01 data/useful-cactus/loot_table/blocks/cholla_slab.json
+8a7b8116d94b383d57795f72362ea9ae6b2496fe data/useful-cactus/loot_table/blocks/cholla_stairs.json
+fef294d3bb642aa50318171073e54b3ec39b9525 data/useful-cactus/loot_table/blocks/cholla_standing_sign.json
+56a5caa2cf2c30b8e75dc24b1d1e6f5146c18418 data/useful-cactus/loot_table/blocks/cholla_trapdoor.json
+79018e36b78b4cf01e9f78310cef63319320dbea data/useful-cactus/loot_table/blocks/dried_cholla.json
+9d19a1d5f65d1966db007493a2e8bdd2d8476bb8 data/useful-cactus/loot_table/blocks/stripped_cholla_block.json
