@@ -15,4 +15,5 @@ ecba3f7e2a59f674d0205c0849a44fa4d30a12ff data/useful-cactus/loot_table/blocks/ch
 fef294d3bb642aa50318171073e54b3ec39b9525 data/useful-cactus/loot_table/blocks/cholla_standing_sign.json
 56a5caa2cf2c30b8e75dc24b1d1e6f5146c18418 data/useful-cactus/loot_table/blocks/cholla_trapdoor.json
 79018e36b78b4cf01e9f78310cef63319320dbea data/useful-cactus/loot_table/blocks/dried_cholla.json
+be430949078b153e9190d20b1faa68ae1f679fe0 data/useful-cactus/loot_table/blocks/potted_dried_cholla.json
 9d19a1d5f65d1966db007493a2e8bdd2d8476bb8 data/useful-cactus/loot_table/blocks/stripped_cholla_block.json

@@ -42,5 +42,7 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
         getOrCreateTagBuilder(BlockTags.WALL_SIGNS).add(ModBlocks.CHOLLA_WALL_SIGN);
         getOrCreateTagBuilder(BlockTags.CEILING_HANGING_SIGNS).add(ModBlocks.CHOLLA_HANGING_SIGN);
         getOrCreateTagBuilder(BlockTags.WALL_HANGING_SIGNS).add(ModBlocks.CHOLLA_WALL_HANGING_SIGN);
+
+        getOrCreateTagBuilder(BlockTags.FLOWER_POTS).add(ModBlocks.POTTED_DRIED_CHOLLA);
     }
 }

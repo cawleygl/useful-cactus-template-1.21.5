@@ -29,6 +29,8 @@ public class ModModelProvider extends FabricModelProvider {
         chollaPlankPool.family(ModBlocks.CHOLLA_SIGN_FAMILY);
         chollaPlankPool.family(ModBlocks.CHOLLA_HANGING_SIGN_FAMILY);
 
+        blockStateModelGenerator.registerFlowerPotPlant(ModBlocks.DRIED_CHOLLA, ModBlocks.POTTED_DRIED_CHOLLA, BlockStateModelGenerator.CrossType.NOT_TINTED);
+
     }
 
     @Override

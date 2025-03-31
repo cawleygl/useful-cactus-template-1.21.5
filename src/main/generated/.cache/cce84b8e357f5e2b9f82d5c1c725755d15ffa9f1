@@ -1,6 +1,7 @@
 // 1.21.5	-999999999-01-01T00:00:00	Useful Cactus/Tags for minecraft:block
 efee7143682c4b4e1a217ba39aee4a4e255e8c7c data/minecraft/tags/block/ceiling_hanging_signs.json
 3b91c41c0e64c0ea1439b0a884d9d8ab10260944 data/minecraft/tags/block/fence_gates.json
+3c695147cffeeb850a5633c5aa5dd453610051d1 data/minecraft/tags/block/flower_pots.json
 cc8f24d22053610526b7fc1e12f163bdaa37ba1c data/minecraft/tags/block/mineable/axe.json
 c2b79ee3f34053e5fe72c2ad3f613a39e1b161d4 data/minecraft/tags/block/planks.json
 f01217e41ee280361a9098af8c10cde7615bb54a data/minecraft/tags/block/slabs.json

@@ -3,6 +3,7 @@ package bluesteel42.usefulcactus.datagen;
 import bluesteel42.usefulcactus.block.ModBlocks;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricBlockLootTableProvider;
+import net.minecraft.block.Blocks;
 import net.minecraft.registry.RegistryWrapper;
 
 import java.util.concurrent.CompletableFuture;
@@ -36,5 +37,6 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
         addDrop(ModBlocks.CHOLLA_HANGING_SIGN);
         addDrop(ModBlocks.CHOLLA_WALL_HANGING_SIGN);
 
+        addDrop(ModBlocks.POTTED_DRIED_CHOLLA, pottedPlantDrops(ModBlocks.DRIED_CHOLLA));
     }
 }

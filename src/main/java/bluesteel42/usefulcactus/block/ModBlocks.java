@@ -29,6 +29,11 @@ public class ModBlocks {
             DriedChollaBlock::new,
             Blocks.createLogSettings(MapColor.DEEPSLATE_GRAY, MapColor.DEEPSLATE_GRAY, BlockSoundGroup.BAMBOO_WOOD)
     );
+    public static final Block POTTED_DRIED_CHOLLA = registerNonOpaqueBlock(
+            "potted_dried_cholla",
+            settings -> new FlowerPotBlock(ModBlocks.DRIED_CHOLLA, settings),
+            Blocks.createFlowerPotSettings()
+    );
 
     public static final Block CHOLLA_BLOCK = registerBlock(
             "cholla_block",
